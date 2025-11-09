@@ -1,0 +1,2 @@
+Esta es mi entrega del trabajo practico integrador grupal final, Somos el grupo 75, que esta integrado por: Laura Diaco, Lautaro Lopez, Matias Mansilla y Emiliano Jara(yo). 
+Soy de la comision 11 de ingles 1, bajo la tutela de Prof. Ballarini y curso la carrera tecnicatura universitaria en programación a distancia, que es dictada por la UTN, sede san nicolas de los arroyos, pero mi SEDE Principal y mas cercana, es La regional de Avellaneda.
